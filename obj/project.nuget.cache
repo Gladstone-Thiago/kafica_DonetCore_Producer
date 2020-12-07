@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B8MOJWH66klzzsmR9XyyCB8Ef1ajGxekrjOi3eVxswFMnmsbVDzs8XZ5rQyxr7ryeYeNSJVT/wGpAC+jkxpYPw==",
+  "success": true,
+  "projectFilePath": "C:\\Benner\\CasoUso_kafica_core\\kafka-producer-simples-csharp-master\\kafka-producer-simples-csharp\\kafka-producer-simples-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\confluent.kafka\\1.4.3\\confluent.kafka.1.4.3.nupkg.sha512",
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\librdkafka.redist\\1.4.2\\librdkafka.redist.1.4.2.nupkg.sha512",
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
